@@ -40,10 +40,8 @@ npm -v
 ### 1. Clone the repository
 
 ``` bash
-git clone <repository-url>
+git clone https://github.com/samanthahubahib03/CampusFinds.git
 ```
-
-Replace `<repository-url>` with the URL of this GitHub repository.
 
 ### 2. Open the project folder
 
